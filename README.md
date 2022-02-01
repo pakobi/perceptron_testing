@@ -65,7 +65,7 @@ During the first main.py run
 
 	(Since the binary file is created, this program skip these first steps during each next run)
 	
-The seond part of program
+The second part of program
 - Program loads data from `pickled_mnist.pkl`
 - It will start multilayer perceptron testing basing on defined test parameters
 	12 Test Cases are defined
