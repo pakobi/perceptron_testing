@@ -43,7 +43,8 @@ of parameters so that neural network has the highest fit scores.
 			LINUX:	`pip3 install -U scikit-learn`
 3. When you have needed application and libraries installed 
 	
-Please unzip these files: 
+Please unzip these files:
+
 	`mnist_test.zip --> mnist_test.csv`
 	`mnist_train.zip --> mnist_train.csv`
 
@@ -52,14 +53,17 @@ Please unzip these files:
 During the first main.py run 
 (The first part of program),
 - It will import data from files:
+-
 	`mnist_test.csv`
 	`mnist_train.csv`
 	( 2 images are printed out just for verification purpose, please close one by one to go to the next steps)
 - Process them accordingly and store data in binary file, 
-  so that data could be loaded faster then from csv	
+  so that data could be loaded faster then from csv
+  
 	`pickled_mnist.pkl`
+
 	(Since the binary file is created, this program skip these first steps during each next run)
-	(The seond part of program)
+(The seond part of program)
 - Program loads data from `pickled_mnist.pkl`
 - It will start multilayer perceptron testing basing on defined test parameters
 	12 Test Cases are defined
