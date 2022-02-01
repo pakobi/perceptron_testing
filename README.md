@@ -3,7 +3,7 @@
 ## Project for neural networks in python - MLPperceptron testing based on scikit library
 
 ### Project Description
-The project purpose is to train and test linear neural multiperceptron network class 
+The aim of this project is to train and test linear neural multiperceptron network class 
 basing on MNIST database of handwritten digits.	As neural network core engine scikit-learn library
 is used which have a very flexible "MLPClassifier" class with number of parameters 
 setting like: 
