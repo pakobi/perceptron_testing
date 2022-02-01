@@ -53,10 +53,11 @@ Please unzip these files:
 During the first main.py run 
 (The first part of program),
 - It will import data from files:
--
+
 	`mnist_test.csv`
 	`mnist_train.csv`
-	( 2 images are printed out just for verification purpose, please close one by one to go to the next steps)
+
+( 2 images are printed out just for verification purpose, please close one by one to go to the next steps)
 - Process them accordingly and store data in binary file, 
   so that data could be loaded faster then from csv
   
