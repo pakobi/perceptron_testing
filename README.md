@@ -29,6 +29,9 @@ expressed in between 0 and 1. This set is used for neural network optimization a
 neural network loss function and optimizer fitting. And to find the proper configuration 
 of parameters so that neural network has the highest fit scores.	
 
+![image](https://user-images.githubusercontent.com/75398126/152051085-fbabf17c-00d9-4f06-8c7f-0b1e66c9b4e9.png)
+![image](https://user-images.githubusercontent.com/75398126/152051282-6d9e71a2-8069-467b-802c-ffa0fe0ce172.png)
+
 
 ### Technologies Used:
 	
