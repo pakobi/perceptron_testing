@@ -46,6 +46,7 @@ of parameters so that neural network has the highest fit scores.
 Please unzip these files: 
 	`mnist_test.zip --> mnist_test.csv`
 	`mnist_train.zip --> mnist_train.csv`
+
 4. Please run main.py - the whole process is done automatickly
 
 During the first main.py run 
