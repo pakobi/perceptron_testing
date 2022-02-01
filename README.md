@@ -5,8 +5,8 @@
 ### Project Description
 The aim of this project is to train and test linear neural multiperceptron network class 
 basing on MNIST database of handwritten digits.	As neural network core engine scikit-learn library
-is used which have a very flexible "MLPClassifier" class with number of parameters 
-setting like: 
+is used. It has a very flexible "MLPClassifier" class which allows for a number of parameters to be
+set as the following ones: 
 ```
 MLPClassifier(
 	hidden_layer_sizes=(30,),
